@@ -1,2 +1,2 @@
 # task-list
-Task list with Materialize CSS and vanilla JS
+Task list with Materialize CSS and Vanilla JS
